@@ -27,7 +27,7 @@ impl Stats {
 /// Ambil semua statistik profil (commits, repos, stars, bahasa, LOC, dst)
 /// untuk satu username GitHub.
 pub async fn fetch_stats(username: &str) -> Result<Stats, String> {
-    let token = std::env::var("GITHUB_PAT").map_err(|_| "GITHUB_PAT tidak ada".to_string())?;
+    let token = std::env::var("GITHUB_TOKEN").map_err(|_| "GITHUB_TOKEN tidak ada".to_string())?;
     let client = reqwest::Client::new();
 
     let query = json!({

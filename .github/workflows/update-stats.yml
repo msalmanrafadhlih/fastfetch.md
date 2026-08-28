@@ -23,7 +23,7 @@ jobs:
 
       - name: Generate stats cards
         env:
-          GITHUB_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ALLOWED_USERS: ${{ secrets.ALLOWED_USERS }}
         run: cargo run --release
 
