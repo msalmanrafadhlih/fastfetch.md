@@ -27,7 +27,7 @@ jobs:
       - name: Generate stats cards
         run: ./target/release/github-readme-card
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           ALLOWED_USERS: ${{ secrets.ALLOWED_USERS }}
 
       - name: Commit & push perubahan
