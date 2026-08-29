@@ -20,12 +20,15 @@ jobs:
 
       - name: Cache cargo dependencies
         uses: Swatinem/rust-cache@v2
+        
+      - name: Build release
+        run: cargo build --release
 
       - name: Generate stats cards
+        run: ./target/release/github-readme-card
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ALLOWED_USERS: ${{ secrets.ALLOWED_USERS }}
-        run: cargo run --release
 
       - name: Commit & push perubahan
         uses: stefanzweifel/git-auto-commit-action@v5
