@@ -35,3 +35,5 @@ jobs:
         with:
           commit_message: "chore: update GitHub stats cards"
           file_pattern: ".github/*.svg .github/loc_cache/*.json"
+          
+          commit_author: "mochsalman <171418244+mochsalman@users.noreply.github.com>"
