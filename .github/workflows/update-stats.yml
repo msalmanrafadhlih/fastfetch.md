@@ -36,4 +36,4 @@ jobs:
           commit_message: "chore: update GitHub stats cards"
           file_pattern: ".github/*.svg .github/loc_cache/*.json"
           
-          commit_author: "mochsalman <171418244+mochsalman@users.noreply.github.com>"
+          commit_author: "${{ secrets.CO_USERNAME }} <${{ secrets.CO_AUTHOR }}@users.noreply.github.com>"
