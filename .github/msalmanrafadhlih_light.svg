@@ -145,7 +145,7 @@
           font-size="18"
           letter-spacing="0em"
           text-anchor="end"
-        ><tspan x="1105" y="83.98">3 years, 1 month, 3 days</tspan></text>
+        ><tspan x="1105" y="83.98">3 years, 1 month, 4 days</tspan></text>
 </g>
 <g id="Host">
 <g id="Option_3">
@@ -326,7 +326,7 @@
           font-size="18"
           letter-spacing="0em"
           text-anchor="end"
-        ><tspan x="1105" y="203.98">Java, QML, CSS, Shell, SCSS</tspan></text>
+        ><tspan x="1105" y="203.98">QML, CSS, Shell, SCSS, Nix</tspan></text>
 </g>
 <g id="Languange.Native">
 <g id="Option_7">
@@ -785,7 +785,7 @@
                 font-size="18"
                 letter-spacing="0em"
                 text-anchor="end"
-              ><tspan x="560.621" y="563.98">16</tspan></text>
+              ><tspan x="560.621" y="563.98">15</tspan></text>
 </g>
 <g id="Contributed">
 <g id="Value_16">
@@ -868,7 +868,7 @@
               font-size="18"
               letter-spacing="0em"
               text-anchor="end"
-            ><tspan x="783.207" y="587.98">15448</tspan></text>
+            ><tspan x="783.207" y="587.98">15443</tspan></text>
 </g>
 <g id="LOC">
 <g id="Option_17">
@@ -985,7 +985,7 @@
               font-size="18"
               letter-spacing="0em"
               text-anchor="end"
-            ><tspan x="1105" y="563.98">30</tspan></text>
+            ><tspan x="1105" y="563.98">28</tspan></text>
 </g>
 <g id="Discord_3">
 <g id="Option_22">
