@@ -6,8 +6,8 @@
 
 <a href="https://github.com/msalmanrafadhlih/github-readme-card">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msalmanrafadhlih/github-readme-card/main/.github/msalmanrafadhlih_dark.svg">
-    <img alt="Example GitHub README card" src="https://raw.githubusercontent.com/msalmanrafadhlih/github-readme-card/main/.github/msalmanrafadhlih_light.svg" width="720">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/msalmanrafadhlih_dark.svg">
+    <img alt="Example GitHub README card" src=".github/msalmanrafadhlih_light.svg" width="720">
   </picture>
 </a>
 
