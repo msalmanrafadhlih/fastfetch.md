@@ -110,7 +110,6 @@ github-readme-card/
 │       ├── mod.rs
 │       ├── api.rs                # Query GraphQL + logika fetch & agregasi stats
 │       └── types.rs              # Struct deserialisasi response GraphQL
-├── Assets/                       # Font JetBrains Mono (di-embed ke SVG)
 ├── devenv.nix                    # Konfigurasi dev shell (toolchain Rust via Nix)
 ├── flake.nix                     # Nix flake (build package + dev shell)
 ├── Cargo.toml / Cargo.lock

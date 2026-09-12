@@ -110,7 +110,6 @@ github-readme-card/
 │       ├── mod.rs
 │       ├── api.rs                # GraphQL queries + fetch & aggregation logic
 │       └── types.rs              # GraphQL response deserialization structs
-├── Assets/                       # JetBrains Mono font (embedded into the SVG)
 ├── devenv.nix                    # Dev shell config (Rust toolchain via Nix)
 ├── flake.nix                     # Nix flake (build package + dev shell)
 ├── Cargo.toml / Cargo.lock
