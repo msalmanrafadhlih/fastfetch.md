@@ -181,7 +181,7 @@
           font-size="18"
           letter-spacing="0em"
           text-anchor="end"
-        ><tspan x="1105" y="83.98">3 years, 1 month, 19 days</tspan></text>
+        ><tspan x="1105" y="83.98">3 years, 1 month, 20 days</tspan></text>
 </g>
 <g id="Host" class="reveal" style="animation-delay:0.135s">
 <g id="Option_3">
@@ -904,7 +904,7 @@
               font-size="18"
               letter-spacing="0em"
               text-anchor="end"
-            ><tspan x="783.207" y="587.98">3438</tspan></text>
+            ><tspan x="783.207" y="587.98">3354</tspan></text>
 </g>
 <g id="LOC">
 <g id="Option_17">
@@ -950,7 +950,7 @@
               font-size="18"
               letter-spacing="0em"
               text-anchor="end"
-            ><tspan x="783.207" y="611.98">428.50k</tspan></text>
+            ><tspan x="783.207" y="611.98">429.04k</tspan></text>
 </g>
 </g>
 <g id="Mid">
@@ -1098,7 +1098,7 @@
               font-family="JetBrains Mono"
               font-size="18"
               letter-spacing="0em"
-            ><tspan x="973.182" y="611.98">673.86k--</tspan></text>
+            ><tspan x="973.182" y="611.98">675.95k--</tspan></text>
 <text
               id="Option_25"
               fill="#979797"
