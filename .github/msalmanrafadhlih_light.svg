@@ -181,7 +181,7 @@
           font-size="18"
           letter-spacing="0em"
           text-anchor="end"
-        ><tspan x="1105" y="83.98">3 years, 2 months, 20 days</tspan></text>
+        ><tspan x="1105" y="83.98">3 years, 2 months, 28 days</tspan></text>
 </g>
 <g id="Host" class="reveal" style="animation-delay:0.135s">
 <g id="Option_3">
@@ -362,7 +362,7 @@
           font-size="18"
           letter-spacing="0em"
           text-anchor="end"
-        ><tspan x="1105" y="203.98">QML, CSS, Rust, Shell, SCSS</tspan></text>
+        ><tspan x="1105" y="203.98">QML, Rust, CSS, Shell, SCSS</tspan></text>
 </g>
 <g id="Languange.Native" class="reveal" style="animation-delay:0.315s">
 <g id="Option_7">
@@ -836,7 +836,7 @@
                 ><tspan
                     x="760.449"
                     y="563.98"
-                  >33</tspan></text>
+                  >11</tspan></text>
 <text
                   fill="black"
                   style="white-space: pre"
@@ -904,7 +904,7 @@
               font-size="18"
               letter-spacing="0em"
               text-anchor="end"
-            ><tspan x="783.207" y="587.98">3191</tspan></text>
+            ><tspan x="783.207" y="587.98">2507</tspan></text>
 </g>
 <g id="LOC">
 <g id="Option_17">
@@ -950,7 +950,7 @@
               font-size="18"
               letter-spacing="0em"
               text-anchor="end"
-            ><tspan x="783.207" y="611.98">466.03k</tspan></text>
+            ><tspan x="783.207" y="611.98">485.87k</tspan></text>
 </g>
 </g>
 <g id="Mid">
@@ -1021,7 +1021,7 @@
               font-size="18"
               letter-spacing="0em"
               text-anchor="end"
-            ><tspan x="1105" y="563.98">34</tspan></text>
+            ><tspan x="1105" y="563.98">35</tspan></text>
 </g>
 <g id="Discord_3">
 <g id="Option_22">
@@ -1080,7 +1080,7 @@
                 font-family="JetBrains Mono"
                 font-size="18"
                 letter-spacing="0em"
-              ><tspan x="823.285" y="611.98">1.16M++</tspan></text>
+              ><tspan x="823.285" y="611.98">1.18M++</tspan></text>
 <text
                 fill="#979797"
                 style="white-space: pre"
@@ -1098,7 +1098,7 @@
               font-family="JetBrains Mono"
               font-size="18"
               letter-spacing="0em"
-            ><tspan x="973.182" y="611.98">691.73k--</tspan></text>
+            ><tspan x="973.182" y="611.98">693.31k--</tspan></text>
 <text
               id="Option_25"
               fill="#979797"
